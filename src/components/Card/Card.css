@@ -1,0 +1,41 @@
+.Container{
+margin: 40px;  
+display: flex;
+
+}
+
+.card{
+    margin-left: 20px;
+}
+
+ul.infoUser{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li{
+      color:#316B83;
+      margin-top: 10px;
+  }
+  .infoUser  li span{
+      color: black;
+  }
+  .deleteIcon{
+    color:red;
+    margin-right:15px;
+    font-size: 20px;
+    margin-left:20px;
+    cursor: pointer;
+}
+.editIcon{
+  color:#316B83;
+  margin-right:13px;
+  font-size: 20px; 
+  cursor: pointer;
+}
+.Icon{
+    display: flex;
+    justify-content:flex-end;
+    margin-bottom: 20px;
+}
+

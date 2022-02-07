@@ -1,0 +1,16 @@
+
+.Container{
+     padding:50px; 
+   
+}
+h3{
+    text-align:center;
+   color: #316B83;
+   font-weight: bold;
+}
+.form-control{
+    width:50%;
+}
+.form-label{
+    color: #c24f66;
+}
